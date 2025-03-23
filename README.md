@@ -12,8 +12,8 @@ The Automatic Pill Dispenser is a smart medication management system designed to
 - Optional IoT integration for remote alerts to caregivers  
 
 ## Components Used  
-- Microcontroller (Arduino/ESP32/ESP8266)  
-- RTC Module (DS3231/DS1307)  
+- Microcontroller (Arduino)  
+- RTC Module  
 - Servo motor or stepper motor for dispensing pills  
 - LCD display or LED indicators  
 - Buzzer or speaker for audio alerts  
@@ -24,4 +24,4 @@ The Automatic Pill Dispenser is a smart medication management system designed to
 2. The RTC module keeps track of time and triggers dispensing at the scheduled time.  
 3. The motorized dispensing mechanism releases the correct pill.  
 4. Buzzer or LED notifications alert the user when it's time to take the pill.  
-5. (Optional) IoT-enabled features can send alerts to a mobile app or caregiver.  
+5. IoT-enabled features can send alerts to a mobile app or caregiver.  
